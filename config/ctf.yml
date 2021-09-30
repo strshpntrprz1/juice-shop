@@ -12,4 +12,4 @@ challenges:
 hackingInstructor:
   isEnabled: false
 ctf:
-  showFlagsInNotifications: true
+  showFlagsInNotifications: false

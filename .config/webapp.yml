@@ -6,5 +6,5 @@ apps:
     description: Probably the most modern and sophisticated insecure web application
     control:
       type: docker
-      image: bkimminich/juice-shop
+      image: strshpntrprz1/juice-shop
       port: 3000
